@@ -1,6 +1,8 @@
 # Image-Analysis
 
-A project that was developed as a university assignment for the subject "Image Analysis". The application was implemented in Matlab. The aim of this computational task is to develop writing theory 
+A project that was developed as a university assignment for the subject "Image Analysis". 
+
+The application was implemented in Matlab. The aim of this computational task is to develop writing theory 
 algorithms for content-based image retrieval. </br> </br>
 
 <b>Ιnstallation Ιnstructions:</b> </br></br>
